@@ -28,6 +28,8 @@ Seaborn
 
 Google Colaboratory
 
+PowerBI for Data visuvalizations
+
 Dataset Features
 
 The dataset includes the following information about customers:
@@ -76,6 +78,29 @@ Customers using the account for limited purposes
 Potential churn risk behavior
 Customers with higher balances may be more valuable
 Customers with zero or low balances may be more likely to churn
+
+Insights :
+
+Inactive customers have a higher churn rate.
+
+Customers with higher balances are more likely to leave.
+
+Certain regions show higher churn.
+
+Recommendation :
+
+Improve engagement with inactive customers.
+
+Offer loyalty programs for high-value customers.
+
+Conclusion :
+
+The analysis helps understand customer behavior and highlights key factors that may lead to customer churn. These insights can help banks take actions to improve customer satisfaction and reduce churn.
+
+Author
+
+Shaik Shahina Sulthana
+
 
 
 
